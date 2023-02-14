@@ -8,11 +8,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## About Me
 
-My name is Anzori Sakhelashvili from Georgia, and I'm a highly motivated Computer Science student at International Black Sea University.
+## 👩‍💻 About Me :
 
-## Skills
+I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Georgia, and I’m a highly motivated Computer Science student at International Black Sea University.
+
+## 🛠 Languages and Tools :
 
 💻 I'm proficient in the following programming languages and frameworks:
 
@@ -30,14 +31,15 @@ My name is Anzori Sakhelashvili from Georgia, and I'm a highly motivated Compute
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
 </div>
 
-## Passions
+## :rocket: Passions
 
 🚀 I'm passionate about writing code and creating new things, and I'm always looking for opportunities to learn and grow.
 
-## Contact
+## :phone: Contact
 
 📫 Feel free to contact me via email at [saxelashvilianzori@gmail.com](mailto:saxelashvilianzori@gmail.com).
 
+---
 
 ### :fire: My Stats :
 
