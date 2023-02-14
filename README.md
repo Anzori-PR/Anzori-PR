@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello, I'm Anzori! 👋
+About Me
+My name is Anzori Sakhelashvili from Georgia, and I'm a highly motivated Computer Science student at International Black Sea University.
 
-<!--
-**Anzori-PR/Anzori-PR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+💻 I'm proficient in the following programming languages and frameworks:
 
-Here are some ideas to get you started:
+HTML
+CSS
+JavaScript
+Bootstrap
+jQuery
+Passions
+🚀 I'm passionate about writing code and creating new things, and I'm always looking for opportunities to learn and grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+📫 Feel free to contact me via email at saxelashvilianzori@gmail.com.
