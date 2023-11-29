@@ -31,19 +31,3 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
-## :rocket: Passions
-
-🚀 I'm passionate about writing code and creating new things, and I'm always looking for opportunities to learn and grow.
-
-## :phone: Contact
-
-📫 Feel free to contact me via email at [saxelashvilianzori@gmail.com](mailto:saxelashvilianzori@gmail.com).
-
----
-
-### :fire: My Stats :
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anzori-PR&theme=dark&background=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzori-PR&layout=compact&theme=vision-friendly-dark)
-
